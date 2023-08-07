@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Hamada702/EasyGamemode
+build-by-default: true
+branches:
+- master
+projects:
+  EasyGamemode:
+    path: ""
+...
