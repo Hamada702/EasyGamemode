@@ -30,7 +30,7 @@ class gmaCommand extends Command implements PluginOwned {
         $this->plugin = $plugin;
         $this->cfg = $this->plugin->getConfig();
         parent::__construct("gma", "Change GameMode to ADVENTURE", null, ["gma"]);
-        $this->setPermission("EasyGamemode.gma");
+        $this->setPermission("easygamemode.gma");
     }
 
     public function execute(CommandSender $sender, string $commandLabel, array $args)

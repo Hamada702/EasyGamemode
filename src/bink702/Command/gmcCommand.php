@@ -30,7 +30,7 @@ class gmcCommand extends Command implements PluginOwned {
         $this->plugin = $plugin;
         $this->cfg = $this->plugin->getConfig();
         parent::__construct("gmc", "Change GameMode to CREATIVE", null, ["gmc"]);
-        $this->setPermission("EasyGamemode.gmc");
+        $this->setPermission("easygamemode.gmc");
     }
 
     public function execute(CommandSender $sender, string $commandLabel, array $args): bool

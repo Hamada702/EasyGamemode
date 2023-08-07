@@ -30,7 +30,7 @@ class gmsCommand extends Command implements PluginOwned {
         $this->plugin = $plugin;
         $this->cfg = $this->plugin->getConfig();
         parent::__construct("gms", "Change GameMode to SURVIVAL", null, ["gms"]);
-        $this->setPermission("EasyGamemode.gms");
+        $this->setPermission("easygamemode.gms");
     }
 
     public function execute(CommandSender $sender, string $commandLabel, array $args)
