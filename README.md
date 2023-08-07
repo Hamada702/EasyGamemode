@@ -8,8 +8,8 @@ This plugin is only to make it easier to change the gamemode
 | --- | --- |
 | **/gmc** | **CREATIVE Gamemode** |
 | **/gms** | **SURVIVAL Gamemode** |
-| **/gma** | **CREATIVE ADVENTURE** |
-| **/gmspc** | **CREATIVE SPECTATOR** |
+| **/gma** | **ADVENTURE ADVENTURE** |
+| **/gmspc** | **SPECTATOR SPECTATOR** |
 <br>
 
 ## 📝 Permission
