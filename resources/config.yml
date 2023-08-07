@@ -1,0 +1,14 @@
+---
+
+# Config Version
+Config: 1.0.1
+
+# Prefix of the message
+Prefix: "§6[§aEasyGamemode§6]§r "
+
+# Message sent to players when Gamemode Change
+ChangeMsg: "§7Gamemode Set To §e"
+
+# Force use Default Gamemode when entering the server
+DefaultGM: true
+...

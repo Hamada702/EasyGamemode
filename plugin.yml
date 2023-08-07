@@ -1,0 +1,22 @@
+---
+name: EasyGamemode
+version: 1.0.1
+main: bink702\EasyGamemode
+api: 5.0.0
+author: bink702 || Hamdani09
+description: EasyGamemode command
+
+permissions:
+  EasyGamemode.gmc:
+    description: Permission use gmc
+    default: op
+  EasyGamemode.gms:
+    description: Permission use gms
+    default: op
+  EasyGamemode.gma:
+    description: Permission use gma
+    default: op
+  EasyGamemode.gmspc:
+    description: Permission use gmspc
+    default: op
+...
