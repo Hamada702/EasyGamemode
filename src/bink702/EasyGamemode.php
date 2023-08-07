@@ -41,14 +41,8 @@ class EasyGamemode extends PluginBase implements Listener {
     {
         // Default Config
         $this->current = "1.0.1";
-        $this->debug = false;
-
         $this->saveDefaultConfig();
         $this->version = $this->getConfig()->get("Config");
-        if($this->debug == true)
-        {
-            $this->getLogger()->info("the plugin uses the current version ". $this->version);
-        }
     }
 
     protected function onEnable(): void
