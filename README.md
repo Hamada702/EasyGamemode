@@ -10,8 +10,8 @@ you just need to use "/gmc" to switch to creative mode
 | --- | --- |
 | **/gmc** | **CREATIVE Gamemode** |
 | **/gms** | **SURVIVAL Gamemode** |
-| **/gma** | **ADVENTURE ADVENTURE** |
-| **/gmspc** | **SPECTATOR SPECTATOR** |
+| **/gma** | **ADVENTURE Gamemode** |
+| **/gmspc** | **SPECTATOR Gamemode** |
 <br>
 
 ## 📝 Permission
